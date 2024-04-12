@@ -8,7 +8,7 @@ public class WithoutException {
 	try {
 		
 	int a =42/d;
-	System.out.println("now  ");
+	
 	}
 	catch(ArithmeticException ob) {
 		System.out.println("Exception is caught"+ob);
